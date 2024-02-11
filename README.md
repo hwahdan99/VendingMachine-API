@@ -9,3 +9,4 @@ In order to run the application, you need the following:
 npm install express sequelize sequelize-cli pg
 
 ```
+4. Finally, to run the application use ``` node app.js ```
